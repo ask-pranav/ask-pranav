@@ -1,11 +1,5 @@
 # Hi, I'm Pranav Kumar! 👋
 
-
-
-
-
-<img align="right" src="https://avatars.githubusercontent.com/ask-pranav" width="150" />
-
 ## 🚀 About Me
 
 - **Full Stack Software Engineer** at Nexion Automation (Sep 2025 – present)
