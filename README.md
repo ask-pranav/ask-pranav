@@ -31,8 +31,7 @@
 
 ## 🔗 Connect with me
 
-- 📫 **Email:** your.email@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/askpranav01)
 - 🏢 Delhi, India
 
 ---
